@@ -26,8 +26,10 @@ const Home = () => {
           enforcement machinery.
         </Title>
         <Title variant="subtitle1">
-          This portal is an initiative of Government of India to facilitate victims/complainants to report crime complaints online. This portal caters to complaints pertaining to crimes only with special focus on crimes against women and children. Complaints reported on this portal are dealt by law enforcement agencies/ police based on the information available in the complaints. It is imperative to provide correct and accurate details while filing complaint for prompt action. Please contact local police in case of an emergency or for reporting crimes .
+          This portal is an initiative of Government of India to facilitate victims/complainants to report crime complaints online. Complaints reported on this portal are dealt by law enforcement authorities/police based on the information available in the complaints record. It is imperative to provide correct and accurate details while filing complaint for prompt action. Please contact local police in case of an emergency or for reporting crimes .
         </Title>
+        <h3>To contact local police dial 100</h3>
+        <h3>Please consult our chatbot for further information.</h3>
         <Title variant="subtitle1"></Title>
       </Paper>
     </Container>
