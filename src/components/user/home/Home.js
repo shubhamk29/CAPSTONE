@@ -25,14 +25,8 @@ const Home = () => {
           We provide an efficient, effective, sensitive and impartial law
           enforcement machinery.
         </Title>
-        <Title variant="subtitle2">
-          <strong>1.</strong> To register a complaint, please click on "register
-          complaint" tab on top.
-        </Title>
-
-        <Title variant="subtitle2">
-          <strong>2.</strong> To view your registered complaints, please click
-          on "my complaints" tab on top.
+        <Title variant="subtitle1">
+          This portal is an initiative of Government of India to facilitate victims/complainants to report crime complaints online. This portal caters to complaints pertaining to crimes only with special focus on crimes against women and children. Complaints reported on this portal are dealt by law enforcement agencies/ police based on the information available in the complaints. It is imperative to provide correct and accurate details while filing complaint for prompt action. Please contact local police in case of an emergency or for reporting crimes .
         </Title>
         <Title variant="subtitle1"></Title>
       </Paper>
