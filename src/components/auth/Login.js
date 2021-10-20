@@ -151,7 +151,7 @@ const Login = () => {
             <div style={{ marginBottom: 8 }}>
               <ReCAPTCHA
                 // secrect key
-                sitekey="6Lf4McocAAAAAK3DNGUxeaeLPOoYgCmduEpYZXaG"
+                sitekey="6Lf4O-IcAAAAAL-EiBPHW0O36SWbttmSJl_w9wUV"
                 //sitekey="6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI" //test secret key
                 onChange={onChangeReCAPTCHA}
                 ref={refCaptcha}
