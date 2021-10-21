@@ -113,7 +113,7 @@ const ReceivedComplaints = () => {
           userEmail: email,
           message: message,
           dashboardLink:
-            "https://bengaluru-crime-authority-app.herokuapp.com/login",
+            "https://bengaluru-crime-authority1.herokuapp.com/login",
         };
         let response = await emailjs.send(
           "service_frzhp2e",
