@@ -105,7 +105,7 @@ const Complaint = () => {
           policeName: response.fullName,
           policeEmailId: response.email,
           dashboardLink:
-            "https://bengaluru-crime-authority-app.herokuapp.com/login",
+            "https://bengaluru-crime-authority1.herokuapp.com/login",
         };
         await emailjs.send(
           "service_frzhp2e",
